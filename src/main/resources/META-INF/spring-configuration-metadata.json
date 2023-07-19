@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "profile.dev",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "profile.prod",
+      "type": "java.lang.String"
+    }
+  ]
+}
